@@ -1,0 +1,24 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiggieBrian/mongoose-checkpoint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiggieBrian/mongoose-checkpoint/issues"
+  },
+  "homepage": "https://github.com/BiggieBrian/mongoose-checkpoint#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "mongoose": "^8.17.1"
+  }
+}
